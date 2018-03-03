@@ -4,6 +4,7 @@ public class Test {
 		System.out.println("This is demo for Git");
 		
 		System.out.println("this is first branch change");
+		System.out.println("a new change ");
 	}
 
 }
