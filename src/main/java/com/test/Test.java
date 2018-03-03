@@ -8,6 +8,12 @@ public class Test {
 		System.out.println("commit for rebase ");
 		
 		System.out.println("another change for rebase");
+		
+		
+	}
+	
+	private void display() {
+		System.out.println("change for cherry pick a commit");
 	}
 
 }
