@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("this is first branch change");
 		System.out.println("a new change ");
 		System.out.println("while marging this brance to master branch here a conflict will occour");
+		
+		System.out.println("addidng a commit for rebase consept");
 	}
 
 }
