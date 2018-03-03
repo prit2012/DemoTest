@@ -4,6 +4,8 @@ public class Test {
 		System.out.println("This is demo for Git");
 		
 		System.out.println("while marging this brance to master branch here a conflict will occour");
+		
+		System.out.println("commit for rebase ");
 	}
 
 }
