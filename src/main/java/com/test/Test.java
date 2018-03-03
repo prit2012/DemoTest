@@ -9,6 +9,8 @@ public class Test {
 		
 		System.out.println("addidng a commit for rebase consept");
 		System.out.println("commit for rebase ");
+		
+		System.out.println("another change for rebase");
 	}
 
 }
