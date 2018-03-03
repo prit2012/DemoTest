@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("while marging this brance to master branch here a conflict will occour");
 		
 		System.out.println("addidng a commit for rebase consept");
+		System.out.println("commit for rebase ");
 	}
 
 }
