@@ -7,10 +7,20 @@ public class Test {
 		System.out.println("a new change ");
 		System.out.println("while marging this brance to master branch here a conflict will occour");
 		
+
 		System.out.println("addidng a commit for rebase consept");
 		System.out.println("commit for rebase ");
 		
 		System.out.println("another change for rebase");
+
+		System.out.println("commit for rebase ");
+		
+		System.out.println("another change for rebase");
+		System.out.println("This is testing");
+		System.out.println("This is testing");
+		System.out.println("change on server");
+		
+
 		
 		
 	}
